@@ -10,7 +10,7 @@
 
 
 1. Install [Nodejs](https://nodejs.org/)
-2. Open up [config.json](https://discord.gg/yrmWeTgbgn) with notepad or some other editor
+2. Open up [config.js](https://discord.gg/yrmWeTgbgn) with notepad or some other editor
 
 # <a id="config"></a>⚙ » Config
 
