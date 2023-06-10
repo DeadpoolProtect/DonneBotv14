@@ -1,6 +1,6 @@
 module.exports = {
     clients: {
-        token: '', //le token ici
+        token: '', 
         name: 'Alexis BOT ❤️', 
         logo: '', 
         activity: '.gg/yrmWeTgbgn', 
